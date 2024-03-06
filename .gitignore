@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Dependency directories
+fastapi/.venv/
+fastapi/.env/
+
+# Local development environment
+.env.local
