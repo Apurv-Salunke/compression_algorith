@@ -41,3 +41,4 @@ This FastAPI server provides two endpoints for string compression and decompress
 ## Usage
 
 Follow the swagger documentation at http://localhost:8000/docs
+![Alt text](image.png)
